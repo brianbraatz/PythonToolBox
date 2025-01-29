@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Articles.md",
+                "file": "Bogdanpmolten A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Articles"
-            }
-          }
-        ]
-      },
-      {
-        "id": "47a2c305258121dd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e6e272f45dda26fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DVSPython-Scripts-Collection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DVSPython-Scripts-Collection"
+              "title": "Bogdanpmolten A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later."
             }
           }
         ]
@@ -181,8 +161,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -206,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -227,43 +207,43 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e6e272f45dda26fe",
+  "active": "54163fb19c870bf2",
   "lastOpenFiles": [
-    "Traps for the Unwary in Python’s Import System.md",
-    "Some Thoughts on Asynchronous Programming.md",
-    "Python scripts - PHYS281.md",
-    "Python 3 and ASCII Compatible Binary Protocols.md",
-    "python - Is it better to have multiple files for scripts or just one large script file with every function.md",
-    "7 Most Useful Python Scripts.md",
-    "What's your favorite Python quirk.md",
-    "10 Useful Python Scripts for Everyday Tasks.md",
-    "10 Useful Python Scripts for Everyday Tasks.md.crdownload",
-    "10ab1186-4837-4edf-a62b-f9169d14f66f.tmp",
-    "python 2 vs python 3.md",
-    "python 2 vs python 3.md.crdownload",
-    "6354973c-52f1-432c-9b0c-29d4d6ff1639.tmp",
-    "Implicit Context Managers.md",
-    "Implicit Context Managers.md.crdownload",
-    "af05f00e-a6e7-4df5-8305-33bee6e63766.tmp",
-    "Suite Expressions.md",
-    "Suite Expressions.md.crdownload",
-    "2df7d206-0340-4c7b-8814-cddb8ccccf97.tmp",
-    "Some Thoughts on Asynchronous Programming.md.crdownload",
-    "5383ce53-70af-4f54-a854-c4474b402ce0.tmp",
-    "Python Enumerations and Good Enough.md",
-    "Processing Text Files in Python 3.md",
-    "Efficiently Exploiting Multiple Cores with Python.md",
-    "Python 3 Q and A.md",
-    "Else Clauses on Loop Statements.md",
-    "How Python Works.md",
-    "Importing a List of Scripts Dynamically - Python - Stack Overflow.md",
-    "Container datatypes — Python 3.md",
-    "7 Python Scripts for Machine Learning  Python in Plain English.md",
-    "35 Python script examples.md",
-    "Python Collections Essentials to Advanced.md",
-    "21 Python Scripts to Automate Everyday Tasks.md",
-    "Python automation 9 scripts to automate workflows.md",
-    "Useful data preprocessing scripts in Python.md",
-    "Awesome_Python_Scripts.md"
+    "MasoniteFrameworkmasonite The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions httpsdiscord.ggTwKeFahmPZ.md",
+    "JSON Schema.md",
+    "Comparison of new Python web frameworks - DEV Community.md",
+    "Benefits of Top 3 Static Code Analysis Tools for Python.md",
+    "9 Pros and Cons of the Django Framework A Coder's Guide.md",
+    "Bottle - Python Lightweight and Fast micro web framework - DEV Community.md",
+    "Which Python static analysis tools should I use - Codacy  Blog.md",
+    "What Python code analysis tools are you using  rPython.md",
+    "twistedklein werkzeug + twisted.web.md",
+    "squeaky-pljapronto Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser..md",
+    "sanic-orgsanic Accelerate your web app development  Build fast. Run fast..md",
+    "Quick start! getting started with flask, python3. - DEV Community.md",
+    "Python Static Code Analysis & Clean Code  Sonar.md",
+    "Python Static Analysis Tools Clean Your Code Before Running  HackerNoon.md",
+    "Python Static Analysis Tools.md",
+    "Python Static Analysis tools - DEV Community.md",
+    "Python libraries and Framework.md",
+    "Python Flask pros and cons - DEV Community.md",
+    "Python Flask pros and cons - DEV Community (2).md",
+    "Python Flask pros and cons - DEV Community (3).md",
+    "Python Flask pros and cons - DEV Community (1).md",
+    "Pysa Open Source static analysis for Python code - Engineering at Meta.md",
+    "psfrequests A simple, yet elegant, HTTP library..md",
+    "NeoteroiBlackSheep Fast ASGI web framework for Python.md",
+    "Mastering Python For Web Development.2.md",
+    "Mastering Python For Web Development.md",
+    "Quick start! getting started with flask, python3. - DEV Community.md.crdownload",
+    "269c80bd-52fb-49ba-a4d8-e1c8a3d1b196.tmp",
+    "Master Web Development with CherryPy Python at Koenig Solutions.md.crdownload",
+    "6b669eb4-f1fb-4de7-ac97-c7be79184c08.tmp",
+    "CherryPy Unleashed Harnessing the Power of Python for Web Apps - Coding Shikho.md.crdownload",
+    "0834588f-bed6-4583-b5b0-5e1a2f0dec78.tmp",
+    "Harnessing the Power of CherryPy for Efficient Web Development” — by Eazealliance  by Eazealliance  Medium.md.crdownload",
+    "2ea712c0-67e3-4419-8eeb-f30bbdf78126.tmp",
+    "fiorixcyclone Cyclone is a web server framework for Python, that implements the Tornado API as a Twisted protocol..md.crdownload",
+    "dcdff3c6-5074-4183-88a9-737ae3a6c394.tmp"
   ]
 }

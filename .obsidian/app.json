@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
-  "uriCallbacks": true
+  "uriCallbacks": true,
+  "alwaysUpdateLinks": true
 }
